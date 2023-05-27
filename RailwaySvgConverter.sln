@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgConverter", "SvgConverter\SvgConverter.csproj", "{DF602977-DF5B-4582-8D8C-6534E9408941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BFA1BAFC-3DF0-4056-9A83-A4A453B9E54C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF602977-DF5B-4582-8D8C-6534E9408941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF602977-DF5B-4582-8D8C-6534E9408941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF602977-DF5B-4582-8D8C-6534E9408941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF602977-DF5B-4582-8D8C-6534E9408941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA1BAFC-3DF0-4056-9A83-A4A453B9E54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA1BAFC-3DF0-4056-9A83-A4A453B9E54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA1BAFC-3DF0-4056-9A83-A4A453B9E54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA1BAFC-3DF0-4056-9A83-A4A453B9E54C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
